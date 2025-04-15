@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/factslabegmc/zonouz_ws/build/trial1",
+        "/home/factslabegmc/zonouz_ws/install/trial1/lib/python3.8/site-packages",
+        "/home/factslabegmc/zonouz_ws/install/px4_msgs/lib/python3.8/site-packages",
+        "/home/factslabegmc/zonouz_ws/build/my_package",
+        "/home/factslabegmc/zonouz_ws/install/my_package/lib/python3.8/site-packages",
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/factslabegmc/zonouz_ws/build/trial1",
+        "/home/factslabegmc/zonouz_ws/install/trial1/lib/python3.8/site-packages",
+        "/home/factslabegmc/zonouz_ws/install/px4_msgs/lib/python3.8/site-packages",
+        "/home/factslabegmc/zonouz_ws/build/my_package",
+        "/home/factslabegmc/zonouz_ws/install/my_package/lib/python3.8/site-packages",
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ]
+}
